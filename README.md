@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nico-keller
+- 👀 I’m interested in Software Engineering, Startups, AI&ML, Tennis, Cooking & Music!
+- 🌱 I’m currently learning React and Javascript 
+- 📫 How to reach me: nicokeller1414@gmail.com
