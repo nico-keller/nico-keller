@@ -13,11 +13,6 @@
 # I'm - Ich bin - Yo soy - [Nico!](https://www.linkedin.com/in/nicolas-arthur-keller/)
 <br/>
 
-
-
-<a href="https://www.linkedin.com/in/nicolas-arthur-keller/"><img align="left" alt="Nico's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
-
-
   <a href="https://www.facebook.com/nicolas.keller.3956/">
   <img align="left" alt="Nico's Facebook" width="30px" src="https://user-images.githubusercontent.com/76125650/139602215-302fea84-764a-45f9-8ca2-d623ede28c3c.png" draggable="false" />
 </a>
@@ -34,6 +29,10 @@
 <a href="https://open.spotify.com/user/keller-nicolas">
   <img align="left" alt="Nico's jam" width="30px" src="images/spotify.png" draggable="false" />
 </a>
+
+<a href="https://www.linkedin.com/in/nicolas-arthur-keller/"><img align="left" alt="Nico's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
+
+
 <br />
 
 
@@ -69,6 +68,7 @@
 <code><img height="40" title="ReactJS" src="images/react.svg"></code>
 <code><img height="40" title="MYSQL" src="./images/mysql.png"></code>
 <code><img height="40" title="Docker" src="images/docker.png"></code>
+<code><img height="40" title="Flask" src="images/Flask.svg"></code>
 <code><img height="40" title="Spring Boot" src="images/Spring_Boot.svg.png"></code>
 
 
