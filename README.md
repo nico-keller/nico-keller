@@ -10,7 +10,7 @@
 
 
 # Hey there <img src="images/wave.gif" width="50px" height="50px">
-# I'm - Ich bin - Yo soy - [Nico!](https://www.linkedin.com/in/nicolas-arthur-keller/)
+# I'm - Ich bin - Yo soy - Je suis -  [Nico!](https://www.linkedin.com/in/nicolas-arthur-keller/)
 <br/>
 
   <a href="https://www.facebook.com/nicolas.keller.3956/">
