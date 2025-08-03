@@ -38,13 +38,13 @@
 
 # About me
 
-🎓 Currently in my 5th semester of Computer Science at the <a href="https://www.unisg.ch/en/">University of St. Gallen</a>
+🎓 Studied Computer Science at the <a href="https://www.unisg.ch/en/">University of St. Gallen</a>
 
 🚧 I'm currently focused on improving my software skills and problem solving
 
-👨‍💻 Interested in Artificial Intelligence, Software Engineering, Startups
+👨‍💻 Interested in Artificial Intelligence, Software Engineering, Data Analytics, Finance, Startups
 
-🪂 Among my hobbies are cooking, drinking wine, playing tennis and padel, reading self-improvement books, traveling and music
+🪂 Among my hobbies are cooking, playing tennis and padel, reading, traveling and listening to music
 
 
 # 🧰 My Skills
