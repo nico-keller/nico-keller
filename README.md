@@ -9,13 +9,6 @@
 # I'm - Ich bin - Yo soy - Je suis -  [Nico!](https://www.linkedin.com/in/nicolas-arthur-keller/)
 <br/>
 
-  <a href="https://www.facebook.com/nicolas.keller.3956/">
-  <img align="left" alt="Nico's Facebook" width="30px" src="https://user-images.githubusercontent.com/76125650/139602215-302fea84-764a-45f9-8ca2-d623ede28c3c.png" draggable="false" />
-</a>
-
-<a href="https://www.instagram.com/nicokeller14/">
-  <img align="left" alt="Nico's Instagram" width="30px" src="https://user-images.githubusercontent.com/76125650/141382540-72edfb69-b11e-4e61-81fd-9f0653da2162.png" draggable="false" /></a>
-
 
 <a href="mailto:nicokeller1414@gmail.com">
   <img align="left" alt="Nico's gmail" width="30px" src="https://user-images.githubusercontent.com/76125650/141382583-1354ab1c-10a7-4605-a255-412ee57d2ad7.png" draggable="false" />
@@ -36,11 +29,11 @@
 
 🎓 Studied Computer Science at the <a href="https://www.unisg.ch/en/">University of St. Gallen</a>
 
-🚧 I'm currently focused on improving my software skills and problem solving
+🚧 I'm currently focused on improving my software developing and architecture skills as well as applying those in finance related projects.
 
-👨‍💻 Interested in Artificial Intelligence, Software Engineering, Data Analytics, Finance, Startups
+👨‍💻 Interested in AI/ML, Software Engineering, Data Analytics, Finance, Markets.
 
-🪂 Among my hobbies are cooking, playing tennis and padel, reading, traveling and listening to music
+🪂 Among my hobbies are cooking, playing tennis, reading, traveling and listening to music.
 
 
 # 🧰 My Skills
